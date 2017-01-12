@@ -1,0 +1,20 @@
+typography_spectrum: 0.7329923580400646
+color:
+  brandStrength: 0.9293454252183437
+  lightness: 0.13960733101703227
+  saturation: 0.2916645121295005
+  rhythmicContrast: 0.6049981561955065
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+github: true
+layout_spectrum: 0.6675276856403798
+author:
+  name: Clarence Dillon
+  email: cdillon2@gmu.edu
+  url: studycomplexity.io
+name: Alternative World Futures
+content: []
