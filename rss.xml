@@ -4,15 +4,22 @@
         <description><![CDATA[Studies on Global Political Complexity]]></description>
         <link>http://studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Jan 2017 21:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2017 21:20:43 GMT</lastBuildDate>
         <atom:link href="http://studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Jan 2017 21:20:25 GMT</pubDate>
+        <pubDate>Fri, 13 Jan 2017 21:20:36 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
             <link>http://studycomplexity.io/first-step/index.html</link>
             <guid isPermaLink="false">bc46b274-bf21-4af4-aecb-284b6fd6dbe4</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Studying Complexity in International Relations]]></title>
+            <description><![CDATA[<p>Yesterday, I defended a proposal to my dissertation committee at George Mason University. I want to model world orders by simulating the social mechanisms that culminate to create it. I think this is important for a host of reasons, most of them related war. </p>,<p> War is a problem. I didn't say that in my proposal. I stuck mainly to the technical challenges of designing the model and the computing architecture required to run such a simulation; how to build it, not why. </p>]]></description>
+            <link>http://studycomplexity.io/studying-complexity-in-international-relations/index.html</link>
+            <guid isPermaLink="false">71fa4a7b-3199-48fa-9e6a-4dd4180b0862</guid>
+            <pubDate>Fri, 13 Jan 2017 21:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One step forward and two steps back]]></title>
