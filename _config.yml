@@ -18,6 +18,10 @@ author:
   url: studycomplexity.io
 name: Alternative World Futures
 url: 'https://studycomplexity.io'
+navigation:
+  - name: About
+    id: 70e64726-63b8-4192-a889-5880a41b08e4
+    type: content
 title: Studies on Global Political Complexity
 content: []
 description: ''
