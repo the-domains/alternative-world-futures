@@ -4,14 +4,22 @@
         <description><![CDATA[Studies on Global Political Complexity]]></description>
         <link>http://studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Jan 2017 21:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2017 21:20:17 GMT</lastBuildDate>
         <atom:link href="http://studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 13 Jan 2017 21:20:11 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
             <link>http://studycomplexity.io/first-step/index.html</link>
             <guid isPermaLink="false">bc46b274-bf21-4af4-aecb-284b6fd6dbe4</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java Maps]]></title>
+            <description><![CDATA[<p>One of my side projects right now is to use figure out how to do agent-based simulation modeling (ABM) with in-memory data grids (like Hazelcast). A typical ABM assigns a behavior or reflex to agents based on their read of the environment. This usually happens by putting all of the code objects that represent agents into a list and iterating through the list to call on each object/agent to do some observation action, like counting neighbors or detecting a system state. </p>,<p> Hazelcast uses a Java ‘map’ to contain the objects/agents. And while the map is iterable (meaning you can start with one item in the map and turn to the next, then the next, then the next and so on... it does not easily ‘subitize’. You cannot easily pick just a few items in the map and iterate through those. </p>]]></description>
+            <link>http://studycomplexity.io/java-maps/index.html</link>
+            <guid isPermaLink="false">b990a3da-d7e8-452e-9e29-579944bffe4a</guid>
+            <pubDate>Fri, 13 Jan 2017 21:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
