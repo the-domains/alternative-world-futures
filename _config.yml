@@ -22,6 +22,9 @@ navigation:
   - name: About
     id: 70e64726-63b8-4192-a889-5880a41b08e4
     type: content
+  - name: 'Summary '
+    id: 00dc742c-bf77-4d4d-95ea-36572c1c8287
+    type: content
 title: Studies on Global Political Complexity
 content: []
 description: ''
