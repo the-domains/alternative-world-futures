@@ -1,17 +1,17 @@
-typography_spectrum: 0.7329923580400646
+layout_spectrum: 0.26806184743743133
+typography_spectrum: 0.8801791967839777
 color:
-  brandStrength: 0.9293454252183437
-  lightness: 0.13960733101703227
-  saturation: 0.2916645121295005
-  rhythmicContrast: 0.6049981561955065
+  brandStrength: 0.533738294625286
+  lightness: 0.6053015427299692
+  saturation: 0.26448127921052866
+  rhythmicContrast: 0.5707297605354485
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 github: true
-layout_spectrum: 0.6675276856403798
 author:
   name: Clarence Dillon
   email: cdillon2@gmu.edu
