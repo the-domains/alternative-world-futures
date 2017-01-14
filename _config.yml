@@ -1,4 +1,3 @@
-layout_spectrum: 0.26806184743743133
 typography_spectrum: 0.8801791967839777
 color:
   brandStrength: 0.533738294625286
@@ -12,6 +11,7 @@ color:
     - '#9FB4CC'
     - '#DB4105'
 github: true
+layout_spectrum: 0.26806184743743133
 author:
   name: Clarence Dillon
   email: cdillon2@gmu.edu
@@ -31,6 +31,4 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/db4c3a38-d0c5-43f5-838d-350b9c0aa81f.jpg
 title: Studies on Global Social Complexity
 content: []
-description: >-
-  The progress and segues of my life as a doctoral candidate in computational
-  social science
+description: The ins and outs of my studies on social complexity at the global level
