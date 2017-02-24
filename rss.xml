@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Studies on Global Political Complexity]]></title>
-        <description><![CDATA[Studies on Global Political Complexity]]></description>
-        <link>http://studycomplexity.io/</link>
+        <title><![CDATA[Studies on Global Social Complexity]]></title>
+        <description><![CDATA[Studies on Global Social Complexity]]></description>
+        <link>http://www.studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Jan 2017 21:20:43 GMT</lastBuildDate>
-        <atom:link href="http://studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Feb 2017 18:45:57 GMT</lastBuildDate>
+        <atom:link href="http://www.studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Fri, 13 Jan 2017 21:20:36 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
-            <link>http://studycomplexity.io/first-step/index.html</link>
+            <link>http://www.studycomplexity.io/first-step/index.html</link>
             <guid isPermaLink="false">bc46b274-bf21-4af4-aecb-284b6fd6dbe4</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Studying Complexity in International Relations]]></title>
             <description><![CDATA[<p>Yesterday, I defended a proposal to my dissertation committee at George Mason University. I want to model world orders by simulating the social mechanisms that culminate to create it. I think this is important for a host of reasons, most of them related war. </p>,<p> War is a problem. I didn't say that in my proposal. I stuck mainly to the technical challenges of designing the model and the computing architecture required to run such a simulation; how to build it, not why. </p>]]></description>
-            <link>http://studycomplexity.io/studying-complexity-in-international-relations/index.html</link>
+            <link>http://www.studycomplexity.io/studying-complexity-in-international-relations/index.html</link>
             <guid isPermaLink="false">71fa4a7b-3199-48fa-9e6a-4dd4180b0862</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One step forward and two steps back]]></title>
             <description><![CDATA[<p><link:str-rel><https:>The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, <i>a la </i><a href="https://read.amazon.com/kp/embed?asin=B000SI8LDW&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_XMVgxb1WB0Z7V0">Colin Wight's concept</a> of 'structural relationsim'. There's not nearly enough there to build a world out of. </https:></link:str-rel></p>,<p><link:str-rel><https:>To be fair, Wight was just working through the philosophical challenges in the 'agent-structure debate' in International Relations, not specifying a model. That was my idea. </https:></link:str-rel></p>]]></description>
-            <link>http://studycomplexity.io/one-step-forward-and-two-steps-back/index.html</link>
+            <link>http://www.studycomplexity.io/one-step-forward-and-two-steps-back/index.html</link>
             <guid isPermaLink="false">d1e5d77c-df05-412f-8a01-91a844824ab4</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Last week, Michael Smith and I presented some work we've been doing together on learning analytics at the Military Operations Research Society's <a href="http://www.mors.org/84th-symposium">84th Symposium</a>. It's good to get out.</p>,<p>Mike and I have worked together for years, though not on learning analytics. We were working on strategy at the U.S. Department of Defense. We were similarly frustrated with the plodding slow pace at which DoD adapts to change. We each left to find more interesting things to do. Mike discovered that instructional design and learning analytics researchers were excited about the things computational and data sciences could do for them. Last year, when the <a href="icfi.com">company</a> he was working for had some contract work, I got an opportunity to sign on as an on-call consultant. </p>]]></description>
-            <link>http://studycomplexity.io/last-week-michael-smith-and-i-presented-some-work-weve-bee/index.html</link>
+            <link>http://www.studycomplexity.io/last-week-michael-smith-and-i-presented-some-work-weve-bee/index.html</link>
             <guid isPermaLink="false">d5489f55-f412-4717-9201-bbaa9699bc48</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Java Maps]]></title>
             <description><![CDATA[<p>One of my side projects right now is to use figure out how to do agent-based simulation modeling (ABM) with in-memory data grids (like Hazelcast). A typical ABM assigns a behavior or reflex to agents based on their read of the environment. This usually happens by putting all of the code objects that represent agents into a list and iterating through the list to call on each object/agent to do some observation action, like counting neighbors or detecting a system state. </p>,<p> Hazelcast uses a Java ‘map’ to contain the objects/agents. And while the map is iterable (meaning you can start with one item in the map and turn to the next, then the next, then the next and so on... it does not easily ‘subitize’. You cannot easily pick just a few items in the map and iterate through those. </p>]]></description>
-            <link>http://studycomplexity.io/java-maps/index.html</link>
+            <link>http://www.studycomplexity.io/java-maps/index.html</link>
             <guid isPermaLink="false">b990a3da-d7e8-452e-9e29-579944bffe4a</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:10 GMT</pubDate>
         </item>
