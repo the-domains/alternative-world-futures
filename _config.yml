@@ -16,8 +16,7 @@ author:
   name: Clarence Dillon
   email: cdillon2@gmu.edu
   url: studycomplexity.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/505636cc-6885-4a78-9b82-8fe1a5a6134a.png
+logo: null
 name: Alternative World Futures
 url: 'https://www.studycomplexity.io'
 navigation:
@@ -28,7 +27,7 @@ navigation:
     id: 00dc742c-bf77-4d4d-95ea-36572c1c8287
     type: content
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/db4c3a38-d0c5-43f5-838d-350b9c0aa81f.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/99efbe34-78fb-4c39-abb6-3501168eca54.png
 title: Studies on Global Social Complexity
 content: []
 description: The ins and outs of my studies on social complexity at the global level
@@ -36,3 +35,5 @@ purpose:
   - type: external
     url: 'https://twitter.com/CWDillon'
     label: Tweet at me
+analytics:
+  twitter: '#studycomplexity'
