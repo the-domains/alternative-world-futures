@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Several weeks ago, George Mason University announced that it would hold a
   3-Minute Thesis competition. I ignored the message.
-dateModified: '2017-02-25T18:45:03.394Z'
-datePublished: '2017-02-25T18:45:03.691Z'
+dateModified: '2017-02-25T18:45:31.867Z'
+datePublished: '2017-02-25T18:45:32.442Z'
 title: Longer Than an Elevator Speech
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-24T18:45:22.437Z'
 url: longer-than-an-elevator-speech/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Longer Than an Elevator Speech
