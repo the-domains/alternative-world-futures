@@ -1,28 +1,34 @@
 ---
 inFeed: true
-description: It’s Longer Than an Elevator Speech
-dateModified: '2017-02-24T18:45:02.281Z'
-datePublished: '2017-02-24T18:45:22.437Z'
-title: ''
+description: >-
+  Several weeks ago, George Mason University announced that it would hold a
+  3-Minute Thesis competition. I ignored the message.
+dateModified: '2017-02-25T18:45:03.394Z'
+datePublished: '2017-02-25T18:45:03.691Z'
+title: Longer Than an Elevator Speech
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-24-its-longer-than-an-elevator-speech.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-24T18:45:22.437Z'
-sourcePath: _posts/2017-02-24-its-longer-than-an-elevator-speech.md
-_type: Blurb
+url: longer-than-an-elevator-speech/index.html
+_type: Article
 
 ---
-It's Longer Than an Elevator Speech
+# Longer Than an Elevator Speech
 
-Several weeks ago, George Mason University announced that it would hold a [3-Minute Thesis][0] competition. I ignored the message. 
+Several weeks ago, George Mason University announced that it would hold a [3-Minute Thesis][0] competition. I ignored the message.
 
-A couple weeks later, the Graduate College of Science prompted us with a reminder email and mentioned that, "it would be good" for doctoral candidates in the college to register for it. I registered. 
+---
 
-A typical elevator speech is supposed to be 30 seconds. So, I figured that I should be able to introduce my idea, give four related elevator speeches, then conclude with time to spare. It turned out to be a little more complicated than that. (Isn't it always!) 
+A couple weeks later, the Graduate College of Science prompted us with a reminder email and mentioned that, "it would be good" for doctoral candidates in the college to register for it. I registered.
 
-This is what I came up with. It consistently takes me 2:50 minutes to read through it aloud. Memorizing it to the point that it pours out naturally in front of judges may take a little more time. 
-> 
+A typical elevator speech is supposed to be 30 seconds. So, I figured that I should be able to introduce my idea, give four related elevator speeches, then conclude with time to spare. It turned out to be a little more complicated than that. (Isn't it always!)
+
+This is what I came up with. It consistently takes me 2:50 minutes to read through it aloud. Memorizing it to the point that it pours out naturally in front of judges may take a little more time.
+
 > Did you know that Rome is over 2,700 years old? The beginning of Western civilization: 2,700 years old.
 > Rome wasn't even the first state-like civilization in the world. There were also Greece, Sumer (Mesopotamia), Harappa (in the Indus valley), Erlitou (in China)... State-like polities have existed for thousands of years. 
 > Through the social sciences and humanities we have a good outline of the story of social development over time and around the world. 
