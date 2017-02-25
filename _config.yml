@@ -1,17 +1,17 @@
-typography_spectrum: 0.8801791967839777
+layout_spectrum: 0.2657594756282276
+typography_spectrum: 0.10723427717601604
 color:
-  brandStrength: 0.533738294625286
-  lightness: 0.6053015427299692
-  saturation: 0.26448127921052866
-  rhythmicContrast: 0.5707297605354485
+  brandStrength: 0.47135298755416405
+  lightness: 0.6686617724679521
+  saturation: 0.3551362448173695
+  rhythmicContrast: 0.540670687136434
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 github: true
-layout_spectrum: 0.26806184743743133
 author:
   name: Clarence Dillon
   email: cdillon2@gmu.edu
@@ -71,7 +71,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
