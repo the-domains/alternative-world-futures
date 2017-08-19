@@ -1,16 +1,16 @@
-layout_spectrum: 0.2657594756282276
-typography_spectrum: 0.10723427717601604
+layout_spectrum: 0.2649698458209929
+typography_spectrum: 0.43070292636115876
 color:
-  brandStrength: 0.47135298755416405
-  lightness: 0.6686617724679521
-  saturation: 0.3551362448173695
-  rhythmicContrast: 0.540670687136434
+  brandStrength: 0.6084850363834475
+  lightness: 0.6347243371361516
+  saturation: 0.35190622110546815
+  rhythmicContrast: 0.7438061073317312
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
 github: true
 author:
   name: Clarence Dillon
@@ -47,7 +47,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
