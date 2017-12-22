@@ -4,15 +4,22 @@
         <description><![CDATA[Studies on Global Social Complexity]]></description>
         <link>http://www.studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Feb 2017 18:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2017 15:14:29 GMT</lastBuildDate>
         <atom:link href="http://www.studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Feb 2017 18:45:33 GMT</pubDate>
+        <pubDate>Fri, 22 Dec 2017 15:14:28 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
             <link>http://www.studycomplexity.io/first-step/index.html</link>
             <guid isPermaLink="false">bc46b274-bf21-4af4-aecb-284b6fd6dbe4</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Demonstrating that I’m Wrong]]></title>
+            <description><![CDATA[<h1>Demonstrating that I’m Wrong</h1>,<p>There are several ways to approach a research problem. One approach is to set up an experiment that can demonstrate a hypothesis true or false, execute it a few times until the outcome is consistent (collect data), and make a determination about the hypothesis from the experiment data. This is the scientific process we learn as children. I like the straight-forward nature of this approach, even if it isn’t much fun.</p>]]></description>
+            <link>http://www.studycomplexity.io/demonstrating-that-im-wrong/index.html</link>
+            <guid isPermaLink="false">e8e9e50a-bd79-4354-ba5d-9f7babb25236</guid>
+            <pubDate>Fri, 22 Dec 2017 15:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Studying Complexity in International Relations]]></title>
