@@ -4,9 +4,9 @@
         <description><![CDATA[Studies on Global Social Complexity]]></description>
         <link>http://www.studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Feb 2018 21:05:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2018 21:06:19 GMT</lastBuildDate>
         <atom:link href="http://www.studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Feb 2018 21:05:32 GMT</pubDate>
+        <pubDate>Mon, 19 Feb 2018 21:06:18 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
@@ -16,8 +16,8 @@
         </item>
         <item>
             <title><![CDATA[Verification and Validation]]></title>
-            <description><![CDATA[<h1>Verification and Validation</h1>,<p>Nearly everybody who does modeling and simulation work has heard (and probably, repeated) the aphorism, “All models are wrong, but some are useful,” usually attributed to George Box. Less popularly known, but as often observed are the, “Six (or so) things you can do with a bad model” that James Hodges wrote for Operations Research (and later, a RAND Note) [1].</p>,<p>Models do not need to be perfect recreations of the real world in order to be useful. In fact, it’s better that they NOT be. After all, it was the real world that appeared to be so confounding that the modeler decided to build a model of it in the first place. So, models need to have a few links to the real world that give us the courage to believe that they represent the problems we want to understand.</p>,<p>My model of world order will necessarily be MUCH more simple than the real world. But, I do want to see that it can represent the features of world politics that generate the general shape of things. I’ve written previously about building a model that proves my initial ideas were wrong. To that end, I needed to compare my model to some data about the real world. It wasn’t <em>that </em>hard but, it wasn’t that easy. This chart shows the time I’ve spent coding on it the past few weeks.</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzdEOgiAYhuFbaZ7jX4IjGjlvBX4-lSXZgPT2a62j9-x57RTnd8ZgkTzCqWS-N0utr3IjOtzD1ZjQ8paoLC6DRj5CXNftSdJ3WpnJiAvQC8VnJYyEFKbrXcCVtYZvyz43g6Wf_e3_9QH8byX6" height="120"></iframe>,<p>Even this isn’t sufficient. I still have some work to do.</p>]]></description>
-            <link>https://the-grid.github.io/ed-userhtml/?g=eJwtzdEOgiAYhuFbaZ7jX4IjGjlvBX4-lSXZgPT2a62j9-x57RTnd8ZgkTzCqWS-N0utr3IjOtzD1ZjQ8paoLC6DRj5CXNftSdJ3WpnJiAvQC8VnJYyEFKbrXcCVtYZvyz43g6Wf_e3_9QH8byX6</link>
+            <description><![CDATA[<h1>Verification and Validation</h1>,<p>Nearly everybody who does modeling and simulation work has heard (and probably, repeated) the aphorism, “All models are wrong, but some are useful,” usually attributed to George Box. Less popularly known, but as often observed are the, “Six (or so) things you can do with a bad model” that James Hodges wrote for Operations Research (and later, a RAND Note) [1].</p>]]></description>
+            <link>http://www.studycomplexity.io/verification-and-validation/index.html</link>
             <guid isPermaLink="false">15909675-48d8-41f3-b1c5-674a220bc38b</guid>
             <pubDate>Mon, 19 Feb 2018 21:03:31 GMT</pubDate>
         </item>
