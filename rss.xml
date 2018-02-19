@@ -4,9 +4,9 @@
         <description><![CDATA[Studies on Global Social Complexity]]></description>
         <link>http://www.studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Feb 2018 21:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2018 21:12:25 GMT</lastBuildDate>
         <atom:link href="http://www.studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Feb 2018 21:10:37 GMT</pubDate>
+        <pubDate>Mon, 19 Feb 2018 21:12:24 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
