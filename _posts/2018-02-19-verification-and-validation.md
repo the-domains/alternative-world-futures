@@ -6,8 +6,8 @@ description: >-
   usually attributed to George Box. Less popularly known, but as often observed
   are the, “Six (or so) things you can do with a bad model” that James Hodges
   wrote for Operations Research (and later, a RAND Note) [1].
-dateModified: '2018-02-19T21:06:17.751Z'
-datePublished: '2018-02-19T21:06:18.239Z'
+dateModified: '2018-02-19T21:08:06.044Z'
+datePublished: '2018-02-19T21:08:06.518Z'
 title: Verification and Validation
 author: []
 publisher: {}
@@ -33,3 +33,5 @@ My model of world order will necessarily be MUCH more simple than the real world
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtzdEOgiAYhuFbaZ7jX4IjGjlvBX4-lSXZgPT2a62j9-x57RTnd8ZgkTzCqWS-N0utr3IjOtzD1ZjQ8paoLC6DRj5CXNftSdJ3WpnJiAvQC8VnJYyEFKbrXcCVtYZvyz43g6Wf_e3_9QH8byX6" height="120" style=""></iframe>
 
 Even this isn't sufficient. I still have some work to do.
+
+\[1\] Hodges, J. S. 1991\. "Six (Or So) Things You Can Do with a Bad Model." _Operations Research_. doi:10.1287/opre.39.3.355\.
