@@ -4,15 +4,22 @@
         <description><![CDATA[Studies on Global Social Complexity]]></description>
         <link>http://www.studycomplexity.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Feb 2018 21:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Mar 2018 18:01:44 GMT</lastBuildDate>
         <atom:link href="http://www.studycomplexity.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Feb 2018 21:19:48 GMT</pubDate>
+        <pubDate>Fri, 09 Mar 2018 18:01:43 GMT</pubDate>
         <item>
             <title><![CDATA[First step]]></title>
             <description><![CDATA[<p>I created a simple model of world order developing. It's too basic to prove anything and there is no underlying data. However, it is useful as a demonstration of a few concepts that are foundational to the rest of my research project. In fact, this might better be described as an animated diagram of how ideas relate to each other.</p>,<p>This simulation is an adaptation of Cioffi-Revilla's 'canonical theory' of (origins and development of) social complexity [1]. It is a model of the process of organization in the world system, rather than being a model of countries or institutions or wars. Anybody can examine the code and experiment with the simulation by downloading the<em><a href="https://github.com/usuallycwdillon/simple-world-order/tree/master/net-logo-world-order"> .nlogo</a></em> file from my simple-world-systems repository on GitHub.</p>]]></description>
             <link>http://www.studycomplexity.io/first-step/index.html</link>
             <guid isPermaLink="false">bc46b274-bf21-4af4-aecb-284b6fd6dbe4</guid>
             <pubDate>Fri, 13 Jan 2017 21:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Computational Social Science > Big Data]]></title>
+            <description><![CDATA[<h1>Computational Social Science &gt; Big Data</h1>,<p>It was quite a while ago (OK, a couple of years ago) that I came across this white paper Sage had published, titled “<a href="https://us.sagepub.com/sites/default/files/compsocsci.pdf" title="Who is doing computational social science?">Who is doing computational social science</a>?”. It caught my attention because <em>I am doing computational social science</em> (CSS). Not only that, but I know quite a few people who do CSS. …and not just <em>some</em> people; many of <strong>the</strong> people. I know them because I study in the first CSS department that was organized in the United States. Together, we represent a significant chunk of the body of knowledge that can reasonably be called CSS. </p>,<p>I was curious to see what Sage’s white paper authors were saying about us. I was really disappointed. The Sage paper did not reference a single person from my department. It did not mention any of the “big names”, the people who broke ground, or people who literally wrote the books that represent the discipline. They did cite Albert-László Barabási a lot. …and he is definitely a key figure in the development and practice of the discipline of CSS. </p>]]></description>
+            <link>http://www.studycomplexity.io/computational-social-science-greater-big-data/index.html</link>
+            <guid isPermaLink="false">66a63151-07ad-4360-a139-760660e8b9ef</guid>
+            <pubDate>Fri, 09 Mar 2018 18:01:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Verification and Validation]]></title>
